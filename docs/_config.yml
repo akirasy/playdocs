@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
+
+title: COVID19 Management
+description: Using Google Spreadsheet approach. Powered by Google Workspace
+show_downloads: false
+google_analytics:
